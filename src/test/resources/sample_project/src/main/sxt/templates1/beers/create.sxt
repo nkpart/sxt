@@ -1,0 +1,4 @@
+<!-- (beer : Beer)(implicit ff : FormFor[Beer]) -->
+<div>
+  { ff.form(beer) }
+</div>
